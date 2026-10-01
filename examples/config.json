@@ -1,0 +1,12 @@
+{
+  "run_dir": "/scratch/my_sparsetalk_run",
+  "scene_root": "/data/scannet/scans",
+  "scenes": "scene0011_00",
+  "model_base": "lmms-lab/llava-onevision-qwen2-7b-ov",
+  "gaussian_checkpoint": "/models/splattalk.ckpt",
+  "autoencoder_checkpoint": "/models/autoencoder.pth",
+  "method": "uniform_random",
+  "budget": 128,
+  "rank_length": 729,
+  "seed": 0
+}

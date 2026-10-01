@@ -1,0 +1,16 @@
+transformers==4.40.0
+tokenizers==0.15.2
+accelerate==0.29.3
+peft==0.4.0
+einops>=0.6
+einops-exts>=0.0.4
+sentencepiece>=0.1.99
+protobuf>=4
+shortuuid>=1.0
+open-clip-torch>=2.30
+decord>=0.6
+av>=12
+safetensors>=0.4
+ftfy>=6
+scipy>=1.13
+PyYAML>=6
